@@ -1,5 +1,6 @@
 # Epic Games Free Game Notification
 **NOTE** this script is currently only for MacOS
+
 This python script is am automatic notification for the free game that comes out each thursday on Epic Games
 Features of the code include:
 - a corresponding image in the notification to the game
