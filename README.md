@@ -15,12 +15,20 @@ Hidden code features include:
 ---
 **MacOS Dependencies**
 - requests
-> you can intall this using `pip install requests`
+> you can intall this using
+> ```
+> pip install requests
+> ```
 - terminal-notifier
-> you can install this using `brew install terminal-notifier`
+> you can install this using
+> ```
+> brew install terminal-notifier
+> ```
 
 >This **requires** Homebrew which you can install if you haven't already by using 
 >
->`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+>```
+>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+>```
 >
 >or for more documentation go [here](https://brew.sh/)
