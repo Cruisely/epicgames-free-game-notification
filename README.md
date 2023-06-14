@@ -10,7 +10,7 @@ Features of the code include:
 
 Hidden code features include:
 - A game log will be made if there is not one already
-- The game will not be repeated in the code if it is already present 
+- The game will not be repeated in the log if it is already present 
 - It will not send a notification for the "Mystery Game"
 ---
 **MacOS Dependencies**
