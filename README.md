@@ -1,3 +1,4 @@
+Created Using OpenAi ChatGPT
 # Epic Games Free Game Notification
 **NOTE** This script is currently only for MacOS 
 ---
